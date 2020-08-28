@@ -73,7 +73,6 @@ All the materials of this project are organized into 3 separate folders:
 
 - **Dataset**: contains all training and testing sets for both subjects, EEG channels names and respective coordinates for the topoplot representation (.mat and .csv files);
 
-- **Trained_models**: contains all the trained models (.h5 files);
 
 # Usage information:
 - The project has been developed to be used with Google Colab service, thus the file paths mounted refer to a directory in the Google Drive cloud service for a simple use;
